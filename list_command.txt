@@ -1,0 +1,14 @@
+COMMAND LIST ( IN LEXICOGRAPHICAL ORDER )
+
+1.cd
+2.clr
+3.cp
+4.del
+5.dir
+6.echo
+7.environ
+8.help
+9.host
+10.list-command
+11.touch
+12.quit

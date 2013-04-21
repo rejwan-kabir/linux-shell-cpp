@@ -1,0 +1,25 @@
+COMMAND HELP ( IN LEXICOGRAPHICAL ORDER )
+
+1.cd – changes the directory (cd dir1)
+
+2.clr - clears the screen
+
+3.cp – copy a file (cp source target)
+
+4.del - deletes a file del (del file )
+
+5.dir – lists the contents within a directory
+
+6.echo <comment> - displays the comment followed by a new line
+
+7.environ - lists the environment settings
+
+8.help – displays the help associated with your shell
+
+9.host – prints the hostname of the machine
+
+10.list-command – lists all commands allowed
+
+11.touch - creates file
+ 
+12.quit – exits the shell
